@@ -1,0 +1,1 @@
+Select this folder in the first directory dialogue box inside gof2FSBEXT.py
