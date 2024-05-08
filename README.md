@@ -5,6 +5,10 @@ The project is **not fully finished and will probably feature discrepencies in c
 
 The .fdp file was created for the **PC/Steam version of Galaxy On Fire 2**, thus the DLC content is missing and I don't know how any .fev or .fsb files built with that .fdp will behave on other platforms.
 
+To see how to setup the FMOD Designer project, scroll down to "Setting up the project".
+
+For more information on how this was made and what problems are currently present, check out my [blog post](https://kroetetroete.com/2024/05/08/expanding-the-possibilities-of-gof2-sound-modding/).
+
 ### Current issues that are still being worked on:
 
 - I turned the volume down in a lot of cases and I'm still not completely satisfied with it. I would really appreciate some other approaches to mimicking the original volume level of GOF2.
