@@ -3,6 +3,8 @@
 A replica of Galaxy On Fire 2's FMOD Designer Project file. Intended to allow more complex sound and event modifications.
 The project is **not fully finished and will probably feature discrepencies in comparison with the original file**.
 
+If you notice anything strange, like sounds being too quiet, swapped around or nonexistent or anything else, please let me know by making an [Issue](https://github.com/KroeteTroete/FMOD-GOF2-Recreated/issues).
+
 The .fdp file was created for the **PC/Steam version of Galaxy On Fire 2**, thus the DLC content is missing and I don't know how any .fev or .fsb files built with that .fdp will behave on other platforms.
 
 To see how to setup the FMOD Designer project, scroll down to "Setting up the project".
