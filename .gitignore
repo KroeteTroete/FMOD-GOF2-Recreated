@@ -1,0 +1,16 @@
+FMOD_GOF2.fdp.bak
+Projects/fmod_designer.log
+Projects/.fsbcache
+Projects/FMOD_GOF2.fev
+Projects/FMOD_GOF2_CUTSCENES.fsb
+Projects/FMOD_GOF2_GENERIC_eng.fsb
+Projects/FMOD_GOF2_LOUNGE_eng.fsb
+Projects/FMOD_GOF2_MUSIC.fsb
+Projects/FMOD_GOF2_SFX_GENERAL.fsb
+Projects/FMOD_GOF2_SFX_SPACE.fsb
+Projects/FMOD_GOF2_SFX_STATION_HANGAR.fsb
+Projects/FMOD_GOF2_SFX_STATION_LOUNGE.fsb
+Projects/FMOD_GOF2_SFX_STATION_MAINVIEW.fsb
+Projects/FMOD_GOF2_VOICE_eng.fsb
+*.wav
+*.mp3
