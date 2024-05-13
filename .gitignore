@@ -14,3 +14,5 @@ Projects/FMOD_GOF2_SFX_STATION_MAINVIEW.fsb
 Projects/FMOD_GOF2_VOICE_eng.fsb
 *.wav
 *.mp3
+*.wav
+FMOD_GOF2/CUT_SCENES/OUTRO/MOTHERSHIP/Mothership_Xplosion_CutSeq.wav
