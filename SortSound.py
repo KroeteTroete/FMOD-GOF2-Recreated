@@ -1,5 +1,7 @@
-import os
+import os 
 import shutil
+import argparse
+from os.path import isfile, join
 
 UnsortedFolder = "PlaceFilesHere/"
 
@@ -69,26 +71,47 @@ folders = [CUT_SCENES, MOTHERSHIP,
            GENERIC,
            LOUNGEVOICE]
 
-for i in folders:
+parser = argparse.ArgumentParser()
 
-    print("in "+i.path)
+parser.add_argument('-c', "--clear", action = "store_true", help="Clear the contents of all FMOD_GOF2 folders")
 
-    f = open(f"{i.path}files.txt", "r", encoding="UTF-16")
-    fileList = list(f.read().split("\n"))
-    
-    for j in fileList:
+args = parser.parse_args()
 
-        fullFileName = j + i.fileFormat
 
-        if j == "":
-            continue
+if __name__ == "__main__":
 
-        elif os.path.isfile(i.path + fullFileName):
-            print(fullFileName + " has already been moved")
-            continue
-
-        else:
-            print(j)
+    if args.clear:
+        
+        for i in folders:
+            onlyfiles = [f for f in os.listdir(i.path) if isfile(join(i.path, f))]
             
-            shutil.move("PlaceFilesHere/" + fullFileName, i.path)
-            print("moving " + "PlaceFilesHere/" + fullFileName + " into " + i.path)
+            for j in onlyfiles:
+                
+                if j != "files.txt":
+                    os.remove(i.path + j)
+                    print("removed " + j)
+    
+    else:
+        for i in folders:
+
+            print("in "+i.path)
+
+            f = open(f"{i.path}files.txt", "r", encoding="UTF-16")
+            fileList = list(f.read().split("\n"))
+
+            for j in fileList:
+
+                fullFileName = j + i.fileFormat
+
+                if j == "":
+                    continue
+
+                elif os.path.isfile(i.path + fullFileName):
+                    print(fullFileName + " has already been moved")
+                    continue
+
+                else:
+                    print(j)
+                    
+                    shutil.move("PlaceFilesHere/" + fullFileName, i.path)
+                    print("moving " + "PlaceFilesHere/" + fullFileName + " into " + i.path)
