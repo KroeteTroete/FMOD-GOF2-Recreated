@@ -48,6 +48,7 @@ MAP = Directory("FMOD_GOF2/SFX_STATION/MAP/", ".wav")
 ENG = Directory("FMOD_GOF2/VOICE/ENG/", ".mp3")
 GENERIC = Directory("FMOD_GOF2/VOICE/GENERIC/", ".mp3")
 LOUNGEVOICE = Directory("FMOD_GOF2/VOICE/LOUNGE/", ".mp3")
+TIMESHIFT = Directory("FMOD_GOF2/DLC/TIMESHIFT/", ".mp3")
 
 folders = [CUT_SCENES, MOTHERSHIP,
            MUSIK_SPACE, MUSIK_STATION,
@@ -69,7 +70,8 @@ folders = [CUT_SCENES, MOTHERSHIP,
            MAP,
            ENG,
            GENERIC,
-           LOUNGEVOICE]
+           LOUNGEVOICE,
+           TIMESHIFT]
 
 parser = argparse.ArgumentParser()
 
