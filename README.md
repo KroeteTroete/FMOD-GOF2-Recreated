@@ -37,7 +37,7 @@ You will need to have python Installed for this process:
 3. Run gof2FSBEXT.py. In the first directory selection window, select FMOD-GOF2-Recreated's "PlaceFilesHere" folder. In the second directory selection window, select Galaxy On Fire 2's sound folder (Galaxy On Fire 2/data/assets/main/sound).
 4. Go into FMOD-GOF2-Recreated and run SortSound.py. If all goes well, the "PlaceFilesHere" folder should now be empty. To verify if the sounds have been sorted correctly, open the project in FMOD Designer 4.30, go into "Wave Banks" and scroll through the lists of waveforms and check for any marked red.
 
-##!!!Back up your GOF2 Sound folder before replacing the files with custom ones! Extracting modified sound banks will not work with the .fdp file, so you have to keep your vanilla ones somewhere!!!
+## !!!Back up your GOF2 Sound folder before replacing the files with custom ones! Extracting modified sound banks will not work with the .fdp file, so you have to keep your vanilla ones somewhere!!!
 
 # Templates
 
