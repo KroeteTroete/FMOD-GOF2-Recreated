@@ -5,7 +5,7 @@ import tkinter, tkinter.filedialog
 root = tkinter.Tk()
 
 
-PlaceHere = tkinter.filedialog.askdirectory(parent=root, initialdir="/", title = "Please select the 'PlaceFilesHere' folder inside FMOD_GOF2_Replica")
+PlaceHere = tkinter.filedialog.askdirectory(parent=root, initialdir="/", title = "Please select the 'PlaceFilesHere' folder inside FMOD_GOF2_Recreated")
 
 GameSound = tkinter.filedialog.askdirectory(parent=root, initialdir="/", title = "Please select GOF2's sound folder")
 
