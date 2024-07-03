@@ -36549,7 +36549,7 @@
 <car_loadsmooth>0.05</car_loadsmooth>
 <car_loadscale>6</car_loadscale>
 <car_dialog>0</car_dialog>
-<volume_db>-12</volume_db>
+<volume_db>-8</volume_db>
 <pitch>0</pitch>
 <pitch_units>Octaves</pitch_units>
 <pitch_randomization>0</pitch_randomization>
@@ -36562,7 +36562,7 @@
 <mode>x_3d</mode>
 <ignoregeometry>No</ignoregeometry>
 <rolloff>Linear</rolloff>
-<mindistance>16000</mindistance>
+<mindistance>18000</mindistance>
 <maxdistance>32000</maxdistance>
 <headrelative>World_relative</headrelative>
 <oneshot>No</oneshot>
@@ -37257,7 +37257,7 @@
 <car_loadsmooth>0.05</car_loadsmooth>
 <car_loadscale>6</car_loadscale>
 <car_dialog>0</car_dialog>
-<volume_db>-20</volume_db>
+<volume_db>-12</volume_db>
 <pitch>0</pitch>
 <pitch_units>Octaves</pitch_units>
 <pitch_randomization>0</pitch_randomization>
@@ -37393,7 +37393,7 @@
 <car_loadsmooth>0.05</car_loadsmooth>
 <car_loadscale>6</car_loadscale>
 <car_dialog>0</car_dialog>
-<volume_db>-20</volume_db>
+<volume_db>-12</volume_db>
 <pitch>0</pitch>
 <pitch_units>Octaves</pitch_units>
 <pitch_randomization>0</pitch_randomization>
@@ -37535,7 +37535,7 @@
 <car_loadsmooth>0.05</car_loadsmooth>
 <car_loadscale>6</car_loadscale>
 <car_dialog>0</car_dialog>
-<volume_db>-20</volume_db>
+<volume_db>-12</volume_db>
 <pitch>0</pitch>
 <pitch_units>Octaves</pitch_units>
 <pitch_randomization>0</pitch_randomization>
@@ -37671,7 +37671,7 @@
 <car_loadsmooth>0.05</car_loadsmooth>
 <car_loadscale>6</car_loadscale>
 <car_dialog>0</car_dialog>
-<volume_db>-20</volume_db>
+<volume_db>-12</volume_db>
 <pitch>0</pitch>
 <pitch_units>Octaves</pitch_units>
 <pitch_randomization>0</pitch_randomization>
@@ -37807,7 +37807,7 @@
 <car_loadsmooth>0.05</car_loadsmooth>
 <car_loadscale>6</car_loadscale>
 <car_dialog>0</car_dialog>
-<volume_db>-20</volume_db>
+<volume_db>-12</volume_db>
 <pitch>0</pitch>
 <pitch_units>Octaves</pitch_units>
 <pitch_randomization>0</pitch_randomization>
@@ -38953,7 +38953,7 @@
 <car_loadsmooth>0.05</car_loadsmooth>
 <car_loadscale>6</car_loadscale>
 <car_dialog>0</car_dialog>
-<volume_db>-20</volume_db>
+<volume_db>-12</volume_db>
 <pitch>0</pitch>
 <pitch_units>Octaves</pitch_units>
 <pitch_randomization>0</pitch_randomization>
@@ -39006,7 +39006,7 @@
 <spawn_intensity_randomization>0</spawn_intensity_randomization>
 <TEMPLATE_PROP_LAYERS>0</TEMPLATE_PROP_LAYERS>
 <TEMPLATE_PROP_KEEP_EFFECTS_PARAMS>0</TEMPLATE_PROP_KEEP_EFFECTS_PARAMS>
-<TEMPLATE_PROP_VOLUME>1</TEMPLATE_PROP_VOLUME>
+<TEMPLATE_PROP_VOLUME>0</TEMPLATE_PROP_VOLUME>
 <TEMPLATE_PROP_PITCH>0</TEMPLATE_PROP_PITCH>
 <TEMPLATE_PROP_PITCH_RANDOMIZATION>0</TEMPLATE_PROP_PITCH_RANDOMIZATION>
 <TEMPLATE_PROP_VOLUME_RANDOMIZATION>0</TEMPLATE_PROP_VOLUME_RANDOMIZATION>
@@ -39095,7 +39095,7 @@
 <car_loadsmooth>0.05</car_loadsmooth>
 <car_loadscale>6</car_loadscale>
 <car_dialog>0</car_dialog>
-<volume_db>-20</volume_db>
+<volume_db>-12</volume_db>
 <pitch>0</pitch>
 <pitch_units>Octaves</pitch_units>
 <pitch_randomization>0</pitch_randomization>
@@ -39148,7 +39148,7 @@
 <spawn_intensity_randomization>0</spawn_intensity_randomization>
 <TEMPLATE_PROP_LAYERS>0</TEMPLATE_PROP_LAYERS>
 <TEMPLATE_PROP_KEEP_EFFECTS_PARAMS>0</TEMPLATE_PROP_KEEP_EFFECTS_PARAMS>
-<TEMPLATE_PROP_VOLUME>1</TEMPLATE_PROP_VOLUME>
+<TEMPLATE_PROP_VOLUME>0</TEMPLATE_PROP_VOLUME>
 <TEMPLATE_PROP_PITCH>0</TEMPLATE_PROP_PITCH>
 <TEMPLATE_PROP_PITCH_RANDOMIZATION>0</TEMPLATE_PROP_PITCH_RANDOMIZATION>
 <TEMPLATE_PROP_VOLUME_RANDOMIZATION>0</TEMPLATE_PROP_VOLUME_RANDOMIZATION>
@@ -39237,7 +39237,7 @@
 <car_loadsmooth>0.05</car_loadsmooth>
 <car_loadscale>6</car_loadscale>
 <car_dialog>0</car_dialog>
-<volume_db>-20</volume_db>
+<volume_db>-12</volume_db>
 <pitch>0</pitch>
 <pitch_units>Octaves</pitch_units>
 <pitch_randomization>0</pitch_randomization>
@@ -39290,7 +39290,7 @@
 <spawn_intensity_randomization>0</spawn_intensity_randomization>
 <TEMPLATE_PROP_LAYERS>0</TEMPLATE_PROP_LAYERS>
 <TEMPLATE_PROP_KEEP_EFFECTS_PARAMS>0</TEMPLATE_PROP_KEEP_EFFECTS_PARAMS>
-<TEMPLATE_PROP_VOLUME>1</TEMPLATE_PROP_VOLUME>
+<TEMPLATE_PROP_VOLUME>0</TEMPLATE_PROP_VOLUME>
 <TEMPLATE_PROP_PITCH>0</TEMPLATE_PROP_PITCH>
 <TEMPLATE_PROP_PITCH_RANDOMIZATION>0</TEMPLATE_PROP_PITCH_RANDOMIZATION>
 <TEMPLATE_PROP_VOLUME_RANDOMIZATION>0</TEMPLATE_PROP_VOLUME_RANDOMIZATION>
@@ -39379,7 +39379,7 @@
 <car_loadsmooth>0.05</car_loadsmooth>
 <car_loadscale>6</car_loadscale>
 <car_dialog>0</car_dialog>
-<volume_db>-20</volume_db>
+<volume_db>-12</volume_db>
 <pitch>0</pitch>
 <pitch_units>Octaves</pitch_units>
 <pitch_randomization>0</pitch_randomization>
@@ -39432,7 +39432,7 @@
 <spawn_intensity_randomization>0</spawn_intensity_randomization>
 <TEMPLATE_PROP_LAYERS>0</TEMPLATE_PROP_LAYERS>
 <TEMPLATE_PROP_KEEP_EFFECTS_PARAMS>0</TEMPLATE_PROP_KEEP_EFFECTS_PARAMS>
-<TEMPLATE_PROP_VOLUME>1</TEMPLATE_PROP_VOLUME>
+<TEMPLATE_PROP_VOLUME>0</TEMPLATE_PROP_VOLUME>
 <TEMPLATE_PROP_PITCH>0</TEMPLATE_PROP_PITCH>
 <TEMPLATE_PROP_PITCH_RANDOMIZATION>0</TEMPLATE_PROP_PITCH_RANDOMIZATION>
 <TEMPLATE_PROP_VOLUME_RANDOMIZATION>0</TEMPLATE_PROP_VOLUME_RANDOMIZATION>
@@ -51484,7 +51484,7 @@
 <car_loadsmooth>0.05</car_loadsmooth>
 <car_loadscale>6</car_loadscale>
 <car_dialog>0</car_dialog>
-<volume_db>-20</volume_db>
+<volume_db>-15</volume_db>
 <pitch>0</pitch>
 <pitch_units>Octaves</pitch_units>
 <pitch_randomization>0</pitch_randomization>
@@ -51522,7 +51522,7 @@
 <cone_outside_volumedb>0</cone_outside_volumedb>
 <doppler_scale>1</doppler_scale>
 <reverbdrylevel_db>0</reverbdrylevel_db>
-<reverblevel_db>-15</reverblevel_db>
+<reverblevel_db>-19.66</reverblevel_db>
 <speaker_spread>0</speaker_spread>
 <panlevel3d>1</panlevel3d>
 <fadein_time>0</fadein_time>
@@ -51620,7 +51620,7 @@
 <car_loadsmooth>0.05</car_loadsmooth>
 <car_loadscale>6</car_loadscale>
 <car_dialog>0</car_dialog>
-<volume_db>-20</volume_db>
+<volume_db>-15</volume_db>
 <pitch>0</pitch>
 <pitch_units>Octaves</pitch_units>
 <pitch_randomization>0</pitch_randomization>
@@ -51658,7 +51658,7 @@
 <cone_outside_volumedb>0</cone_outside_volumedb>
 <doppler_scale>1</doppler_scale>
 <reverbdrylevel_db>0</reverbdrylevel_db>
-<reverblevel_db>-15</reverblevel_db>
+<reverblevel_db>-19.66</reverblevel_db>
 <speaker_spread>0</speaker_spread>
 <panlevel3d>1</panlevel3d>
 <fadein_time>0</fadein_time>
@@ -51667,7 +51667,7 @@
 <spawn_intensity_randomization>0</spawn_intensity_randomization>
 <TEMPLATE_PROP_LAYERS>0</TEMPLATE_PROP_LAYERS>
 <TEMPLATE_PROP_KEEP_EFFECTS_PARAMS>0</TEMPLATE_PROP_KEEP_EFFECTS_PARAMS>
-<TEMPLATE_PROP_VOLUME>1</TEMPLATE_PROP_VOLUME>
+<TEMPLATE_PROP_VOLUME>0</TEMPLATE_PROP_VOLUME>
 <TEMPLATE_PROP_PITCH>0</TEMPLATE_PROP_PITCH>
 <TEMPLATE_PROP_PITCH_RANDOMIZATION>0</TEMPLATE_PROP_PITCH_RANDOMIZATION>
 <TEMPLATE_PROP_VOLUME_RANDOMIZATION>0</TEMPLATE_PROP_VOLUME_RANDOMIZATION>
@@ -51756,7 +51756,7 @@
 <car_loadsmooth>0.05</car_loadsmooth>
 <car_loadscale>6</car_loadscale>
 <car_dialog>0</car_dialog>
-<volume_db>-20</volume_db>
+<volume_db>-15</volume_db>
 <pitch>0</pitch>
 <pitch_units>Octaves</pitch_units>
 <pitch_randomization>0</pitch_randomization>
@@ -51794,7 +51794,7 @@
 <cone_outside_volumedb>0</cone_outside_volumedb>
 <doppler_scale>1</doppler_scale>
 <reverbdrylevel_db>0</reverbdrylevel_db>
-<reverblevel_db>-15</reverblevel_db>
+<reverblevel_db>-19.66</reverblevel_db>
 <speaker_spread>0</speaker_spread>
 <panlevel3d>1</panlevel3d>
 <fadein_time>0</fadein_time>
@@ -51803,7 +51803,7 @@
 <spawn_intensity_randomization>0</spawn_intensity_randomization>
 <TEMPLATE_PROP_LAYERS>0</TEMPLATE_PROP_LAYERS>
 <TEMPLATE_PROP_KEEP_EFFECTS_PARAMS>0</TEMPLATE_PROP_KEEP_EFFECTS_PARAMS>
-<TEMPLATE_PROP_VOLUME>1</TEMPLATE_PROP_VOLUME>
+<TEMPLATE_PROP_VOLUME>0</TEMPLATE_PROP_VOLUME>
 <TEMPLATE_PROP_PITCH>0</TEMPLATE_PROP_PITCH>
 <TEMPLATE_PROP_PITCH_RANDOMIZATION>0</TEMPLATE_PROP_PITCH_RANDOMIZATION>
 <TEMPLATE_PROP_VOLUME_RANDOMIZATION>0</TEMPLATE_PROP_VOLUME_RANDOMIZATION>
@@ -51892,7 +51892,7 @@
 <car_loadsmooth>0.05</car_loadsmooth>
 <car_loadscale>6</car_loadscale>
 <car_dialog>0</car_dialog>
-<volume_db>-20</volume_db>
+<volume_db>-15</volume_db>
 <pitch>0</pitch>
 <pitch_units>Octaves</pitch_units>
 <pitch_randomization>0</pitch_randomization>
@@ -51930,7 +51930,7 @@
 <cone_outside_volumedb>0</cone_outside_volumedb>
 <doppler_scale>1</doppler_scale>
 <reverbdrylevel_db>0</reverbdrylevel_db>
-<reverblevel_db>-15</reverblevel_db>
+<reverblevel_db>-19.66</reverblevel_db>
 <speaker_spread>0</speaker_spread>
 <panlevel3d>1</panlevel3d>
 <fadein_time>0</fadein_time>
@@ -51939,7 +51939,7 @@
 <spawn_intensity_randomization>0</spawn_intensity_randomization>
 <TEMPLATE_PROP_LAYERS>0</TEMPLATE_PROP_LAYERS>
 <TEMPLATE_PROP_KEEP_EFFECTS_PARAMS>0</TEMPLATE_PROP_KEEP_EFFECTS_PARAMS>
-<TEMPLATE_PROP_VOLUME>1</TEMPLATE_PROP_VOLUME>
+<TEMPLATE_PROP_VOLUME>0</TEMPLATE_PROP_VOLUME>
 <TEMPLATE_PROP_PITCH>0</TEMPLATE_PROP_PITCH>
 <TEMPLATE_PROP_PITCH_RANDOMIZATION>0</TEMPLATE_PROP_PITCH_RANDOMIZATION>
 <TEMPLATE_PROP_VOLUME_RANDOMIZATION>0</TEMPLATE_PROP_VOLUME_RANDOMIZATION>
